@@ -1,6 +1,7 @@
 # Controlling Self-Landing Rockets Using CVXPY
 
-This repository contains the code for a tutorial at SciPy 2023 in Austin, TX. The tutorial will be held on July 10, 2023.
+This repository contains the installation instructions for a tutorial at SciPy 2023 in Austin, TX. The tutorial will be held on July 10, 2023.
+We will provide additional materials here before the tutorial.
 
 We're excited to see you there and hope you enjoy the tutorial!  
 The CVXPY Team
