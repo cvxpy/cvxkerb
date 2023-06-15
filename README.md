@@ -11,7 +11,7 @@ The CVXPY Team
 
 
 ## Installation
-To follow along with the tutorial, you will need to install the following packages:
+To follow along with the tutorial, you will need to install the following packages, ideally in a fresh virtual environment:
 ```
 cvxpy
 scipy
