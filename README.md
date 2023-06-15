@@ -54,7 +54,7 @@ The code can also be run from this Colab notebook (link will be provided in adva
 
 ### Optional: KSP
 If you have the Kerbal Space Program installed, you can optionally install kRPC.
-This will allow you to run the code in the `ksp_landing.py` file (will be provided before the tutorial), which uses CVXPY to control a rocket in KSP.
+This will allow you to run the code in the `ksp_landing.py` file (will be provided during the tutorial), which uses CVXPY to control a rocket in KSP.
 To use kRPC, you need the client as well as the server.
 The client can be installed via pip
 ```
