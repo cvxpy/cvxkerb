@@ -101,7 +101,7 @@ We are using KSP 1.12.5 for this tutorial.
 
 - Performance improvements via parameters (DPP)
 - Fastest descent via quasiconvex optimization (DQCP)
-- Using CVXPYGen for implementations in embedded systems
+- Using CVXPYgen for implementations in embedded systems
 
 ### Conclusion [15 min]
 
