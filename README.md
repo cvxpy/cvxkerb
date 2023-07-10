@@ -1,7 +1,5 @@
 # Controlling Self-Landing Rockets Using CVXPY
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cvxpy/cvxkerb/HEAD)
-
 This repository contains the installation instructions for a tutorial at SciPy 2023 in Austin, TX. The tutorial will be held on July 10, 2023.
 We will provide additional materials here before the tutorial.
 
@@ -52,8 +50,12 @@ This should produce the following output:
 <img src="media/hello_world.png" alt= “Hello World” width="50%">
 </p>
 
-### Colab
-The code can also be run from this Colab notebook (link will be provided in advance).
+### Binder and Codespace
+You can also run the notebooks on binder or in a codespace  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cvxpy/cvxkerb/HEAD)  
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/cvxgrp/cvxmarkowitz)
+
+
 
 ### Optional: KSP
 If you have the Kerbal Space Program installed, you can optionally install kRPC.
