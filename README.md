@@ -88,7 +88,7 @@ We are using KSP 1.12.5 for this tutorial.
 - Developing the objective function and constraints
 - Specifying the optimization problem in CVXPY
 
-### [Solving the problem](https://github.com/cvxpy/cvxkerb_solution/blob/main/notebooks/solving_the_problem_solution.ipynb) [15 min]
+### [Solving the problem](https://github.com/cvxpy/cvxkerb/blob/main/notebooks/solving_the_problem_solution.ipynb) [15 min]
 
 - Using CVXPY to solve the optimization problem
 - Interpreting the results
