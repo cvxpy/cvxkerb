@@ -63,24 +63,24 @@ pip install krpc==0.5.3
 ```
 
 For the server, you can choose from the installation options provided in the [kRPC documentation](https://krpc.github.io/krpc/getting-started.html).
-In our case, we downloaded the prebuilt binaries from the [GitHub release](https://github.com/krpc/krpc/releases/tag/v0.5.2) and extracted them to the KSP `GameData` directory.  
+In our case, we downloaded the prebuilt binaries from the [GitHub release](https://github.com/krpc/krpc/releases/tag/v0.5.2) and extracted them to the KSP `GameData` directory.
+Note: Use the exact linked release for `v.0.5.2` (even though the pip install is `0.5.3`), as the `0.5.3` release does not contain the server build.
 We are using KSP 1.12.5 for this tutorial.
 
 ## Tutorial outline
-
 ### Introduction [30 min]
 
 - Explanation of the tutorial's purpose and goals
 - Explanation of the importance of self-landing rockets
 - A brief overview of CVXPY
-- A single rule for composing convex functions
 
 ### Getting started with CVXPY [30 min]
 
-- Validating successful installations
-- Creating a simple optimization problem to demonstrate CVXPY's capabilities
+- A single rule for composing convex functions
+- The working principles of CVXPY
+- Creating a simple optimization problems
 
-### Formulating the problem [60 min]
+### Formulating the rocket landing problem [60 min]
 
 - Identifying the problem's parameters
 - Developing the objective function and constraints
@@ -100,8 +100,8 @@ We are using KSP 1.12.5 for this tutorial.
 ### Advanced features of CVXPY [30 min]
 
 - Performance improvements via parameters (DPP)
-- Fastest descent via quasiconvex optimization (DQCP)
 - Using CVXPYgen for implementations in embedded systems
+- Fastest descent via quasiconvex optimization (DQCP)
 
 ### Conclusion [15 min]
 
