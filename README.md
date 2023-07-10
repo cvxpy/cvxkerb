@@ -55,8 +55,6 @@ You can also run the notebooks on binder or in a codespace
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cvxpy/cvxkerb/HEAD)  
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/cvxgrp/cvxmarkowitz)
 
-
-
 ### Optional: KSP
 If you have the Kerbal Space Program installed, you can optionally install kRPC.
 This will allow you to run the code in the `ksp_landing.py` file (will be provided during the tutorial), which uses CVXPY to control a rocket in KSP.
