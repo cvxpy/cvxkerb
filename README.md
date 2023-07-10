@@ -95,7 +95,7 @@ We are using KSP 1.12.5 for this tutorial.
 
 - Introduction to the Kerbal Space Program and kRPC
 - Using CVXPY to control a rocket in KSP
-- Deploying a satellite into orbit and landing the booster back on the launchpad
+- Launch the rocket and land back on the launchpad
 
 ### Advanced features of CVXPY [30 min]
 
