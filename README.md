@@ -70,41 +70,41 @@ Note: Use the exact linked release for `v.0.5.2` (even though the pip install is
 We are using KSP 1.12.5 for this tutorial.
 
 ## Tutorial outline
-### Introduction [30 min]
+### [Introduction](https://github.com/cvxpy/cvxkerb/blob/main/slides/intro.pdf) [30 min]
 
 - Explanation of the tutorial's purpose and goals
 - Explanation of the importance of self-landing rockets
 - A brief overview of CVXPY
 
-### Getting started with CVXPY [30 min]
+### [Getting started with CVXPY](https://github.com/cvxpy/cvxkerb/blob/main/slides/cvxpy_intro.pdf) [30 min]
 
 - A single rule for composing convex functions
 - The working principles of CVXPY
 - Creating a simple optimization problems
 
-### Formulating the rocket landing problem [60 min]
+### [Formulating the rocket landing problem](https://github.com/cvxpy/cvxkerb/blob/main/slides/landing_problem.pdf) [60 min]
 
 - Identifying the problem's parameters
 - Developing the objective function and constraints
 - Specifying the optimization problem in CVXPY
 
-### Solving the problem [15 min]
+### [Solving the problem](https://github.com/cvxpy/cvxkerb_solution/blob/main/notebooks/solving_the_problem_solution.ipynb) [15 min]
 
 - Using CVXPY to solve the optimization problem
 - Interpreting the results
 
-### The mission [60 min]
+### [The mission](https://github.com/cvxpy/cvxkerb/blob/main/slides/mission.pdf) [60 min]
 
 - Introduction to the Kerbal Space Program and kRPC
 - Using CVXPY to control a rocket in KSP
 - Launch the rocket and land back on the launchpad
 
-### Advanced features of CVXPY [30 min]
+### [Advanced features of CVXPY](https://github.com/cvxpy/cvxkerb/blob/main/slides/advanced.pdf) [30 min]
 
 - Performance improvements via parameters (DPP)
 - Using CVXPYgen for implementations in embedded systems
 - Fastest descent via quasiconvex optimization (DQCP)
 
-### Conclusion [15 min]
+### [Conclusion](https://github.com/cvxpy/cvxkerb/blob/main/slides/conclusion.pdf) [15 min]
 
 - Recap of the tutorial's content and the importance of convex optimization and CVXPY in solving real-world problems
