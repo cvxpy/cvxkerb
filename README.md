@@ -20,6 +20,9 @@ matplotlib
 ```
 CVXPY currently supports Python 3.7-3.11. We are using Python 3.8 for this tutorial, but any of these versions should work.
 
+<details>
+  <summary>Verify installation</summary>
+
 To verify your installation, run the following commands in a Python interpreter:
 ```py
 import cvxpy as cp
@@ -49,6 +52,7 @@ This should produce the following output:
 <p align="center">
 <img src="media/hello_world.png" alt= “Hello World” width="50%">
 </p>
+</details>
 
 ### Binder and Codespace
 You can also run the notebooks on binder or in a codespace  
