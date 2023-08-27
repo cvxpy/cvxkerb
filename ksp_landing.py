@@ -50,7 +50,7 @@ def run() -> None:
         alpha = np.arctan(p[2] * 1.05 / np.linalg.norm(p[:2]))
 
         try:
-            P, F, _, problem = optimize_fuel(
+            P, F, _, _ = optimize_fuel(
                 origin,
                 9.81,
                 vessel.mass,
@@ -61,7 +61,6 @@ def run() -> None:
                 max_thrust,
                 alpha,
                 1,
-                solver=cp.MOSEK,
             )
         except (cp.SolverError, AssertionError) as e:
             print(e)
